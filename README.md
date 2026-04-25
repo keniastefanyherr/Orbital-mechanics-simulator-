@@ -1,7 +1,7 @@
 # 🌌 Orbital Mechanics Simulator (Artemis Generation) 🚀✨
 
 <p align="center">
-  <img src="simulador.png" alt="Orbital Mechanics Simulator Preview" width="800">
+  <img src="simulacion.gif" alt="Orbital Mechanics Animation" width="800">
 </p>
 
 ![Python](https://img.shields.io/badge/Python-3.12-blue.svg?style=for-the-badge&logo=python&logoColor=white)
